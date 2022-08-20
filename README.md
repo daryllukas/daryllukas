@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [http://daryllukas.me/](http://daryllukas.me/)
 
-- 💬 Ask me about **react, django, react native, node.js, serverless**
+- 💬 Ask me about **anything really**
 
 - 📫 How to reach me **hello@daryllukas.me**
 
