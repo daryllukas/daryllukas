@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daryllukas&label=Profile%20views&color=0e75b6&style=flat" alt="daryllukas" /> </p>
 
-- 🔭 I’m currently working on [HRVST](https://hrvst.market/)
+- 🔭 I’m currently freelancing and pursuing a career in Developer Relations
 
-- 🌱 I’m currently learning **Microsoft Certified: Azure Fundamentals**
+- 🌱 I’m currently learning **Mathematics for Computer Science**. Preparing to pursue a [Bachelor's Degree in Computer Science](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london)
 
 - 📝 I regularly write articles on [http://daryllukas.me/](http://daryllukas.me/)
 
