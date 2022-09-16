@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mathematics for Computer Science**. Preparing to pursue a [Bachelor's Degree in Computer Science](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london)
 
-- 📝 I regularly write articles on [http://daryllukas.me/](http://daryllukas.me/)
+- 📝 I regularly write articles on [DEV](https://dev.to/daryllukas) and [my personal blog](http://daryllukas.me/)
 
 - 💬 Ask me about **anything really**
 
