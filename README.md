@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daryl</h1>
-<h3 align="center">A self-taught software engineer from Zambia</h3>
+<h3 align="center">A digital creator from Zambia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daryllukas&label=Profile%20views&color=0e75b6&style=flat" alt="daryllukas" /> </p>
 
-- 🔭 I’m currently freelancing and pursuing a career in Developer Relations
-
-- 🌱 I’m currently learning **Mathematics for Computer Science**. Preparing to pursue a [Bachelor's Degree in Computer Science](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london)
+- 🔭 I’m currently doing contract work and working on a startup.
 
 - 📝 I regularly write articles on [DEV](https://dev.to/daryllukas) and [my personal blog](http://daryllukas.me/)
 
